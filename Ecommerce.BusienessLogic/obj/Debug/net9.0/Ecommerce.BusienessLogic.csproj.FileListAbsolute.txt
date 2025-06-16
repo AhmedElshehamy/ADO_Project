@@ -1,0 +1,15 @@
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.BusienessLogic\bin\Debug\net9.0\Ecommerce.BusienessLogic.deps.json
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.BusienessLogic\bin\Debug\net9.0\Ecommerce.BusienessLogic.dll
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.BusienessLogic\bin\Debug\net9.0\Ecommerce.BusienessLogic.pdb
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.BusienessLogic\bin\Debug\net9.0\Ecommerce.DataAcess.dll
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.BusienessLogic\bin\Debug\net9.0\Ecommerce.DataAcess.pdb
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.BusienessLogic\obj\Debug\net9.0\Ecommerce.BusienessLogic.csproj.AssemblyReference.cache
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.BusienessLogic\obj\Debug\net9.0\Ecommerce.BusienessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.BusienessLogic\obj\Debug\net9.0\Ecommerce.BusienessLogic.AssemblyInfoInputs.cache
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.BusienessLogic\obj\Debug\net9.0\Ecommerce.BusienessLogic.AssemblyInfo.cs
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.BusienessLogic\obj\Debug\net9.0\Ecommerce.BusienessLogic.csproj.CoreCompileInputs.cache
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.BusienessLogic\obj\Debug\net9.0\Ecommerc.BBCB233F.Up2Date
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.BusienessLogic\obj\Debug\net9.0\Ecommerce.BusienessLogic.dll
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.BusienessLogic\obj\Debug\net9.0\refint\Ecommerce.BusienessLogic.dll
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.BusienessLogic\obj\Debug\net9.0\Ecommerce.BusienessLogic.pdb
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.BusienessLogic\obj\Debug\net9.0\ref\Ecommerce.BusienessLogic.dll

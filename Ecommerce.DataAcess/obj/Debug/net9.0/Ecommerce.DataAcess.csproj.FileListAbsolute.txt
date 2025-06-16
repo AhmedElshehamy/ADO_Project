@@ -1,0 +1,12 @@
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.DataAcess\bin\Debug\net9.0\Ecommerce.DataAcess.deps.json
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.DataAcess\bin\Debug\net9.0\Ecommerce.DataAcess.dll
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.DataAcess\bin\Debug\net9.0\Ecommerce.DataAcess.pdb
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.DataAcess\obj\Debug\net9.0\Ecommerce.DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.DataAcess\obj\Debug\net9.0\Ecommerce.DataAcess.AssemblyInfoInputs.cache
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.DataAcess\obj\Debug\net9.0\Ecommerce.DataAcess.AssemblyInfo.cs
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.DataAcess\obj\Debug\net9.0\Ecommerce.DataAcess.csproj.CoreCompileInputs.cache
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.DataAcess\obj\Debug\net9.0\Ecommerce.DataAcess.dll
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.DataAcess\obj\Debug\net9.0\refint\Ecommerce.DataAcess.dll
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.DataAcess\obj\Debug\net9.0\Ecommerce.DataAcess.pdb
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.DataAcess\obj\Debug\net9.0\ref\Ecommerce.DataAcess.dll
+D:\Professional Development & BI-infused CRM\Window Form\ProjectADO\Ecommerce.DataAcess\obj\Debug\net9.0\Ecommerce.DataAcess.csproj.AssemblyReference.cache
